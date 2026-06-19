@@ -1,3 +1,3 @@
 :HL["/antigravity-BiteSeoul_app/_next/static/chunks/1dxajl521yl9y.css","style"]
 :HL["/antigravity-BiteSeoul_app/_next/static/media/1b99372b3eaef0c8-s.p.1gsd1jahc5dg_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"E2-RSYhqJyxMT1nBDNQXw"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"S0Jdpps1BLStyAmYPWAU5"}
